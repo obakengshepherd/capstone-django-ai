@@ -1,6 +1,6 @@
-## capstone-django-ai
+# capstone-django-ai
 
-# django
-# rest-api
-# ai
-# capstone
+## django
+## rest-api
+## ai
+## capstone
